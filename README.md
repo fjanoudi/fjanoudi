@@ -1,6 +1,6 @@
 # Hey✌️
 ##  I'm Fidaa🤎 فداء 🇸🇾
-#### My family is originally from Syria, but I was born and raised in RI. URI has been my second home for the last 6 years since I completed my bachelors prior to   my current masters education here. I'm a M.S. candidate in the BES program working on a thesis under Dr. Jason Parent's guidance. My thesis is heavily based on GIS  which is great because I feel more comfortable learning to code for a software that I'm really familiar with. Excited yet anxious about this class, but looking forward to it all nevertheless. 
+#### My family is originally from Syria, but I was born and raised in RI. URI has been my second home for the last 6 years since I completed my bachelors prior to   my current masters education here. I'm a M.S. candidate in the BES program working on a thesis under Dr. Jason Parent's guidance. My thesis is heavily based on GIS  which is great because I feel more comfortable learning Python for a software that I'm really familiar with. Excited yet anxious about this class, but looking forward to it all nevertheless. 
 
 #### Other than being GIS's biggest fan, I like to spend my time at the gym and enjoying **nature** 🌄.
 
